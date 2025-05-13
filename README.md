@@ -1,6 +1,6 @@
 # AIDS Clinical Trial: PCA, Clustering, and Classification Analysis
 
-This project explores an AIDS clinical trial dataset using dimensionality reduction, clustering, and classification techniques. The goal is to identify patterns in patient data and evaluate models for predicting treatment outcomes.
+This project explored an AIDS clinical trial dataset using dimensionality reduction, clustering, and classification techniques. The goal is to identify patterns in patient data and evaluate models for predicting treatment outcomes.
 
 ---
 
